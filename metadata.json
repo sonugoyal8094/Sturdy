@@ -1,0 +1,6 @@
+{
+  "name": "StudySaathi",
+  "description": "AI Student Solver with photo scanning, step-by-step solutions, simple learning mode, and practice questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
